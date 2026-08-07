@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 ---
 
-# I'm looking for engagement, critical reflection, and experimentation.
+I'm looking for engagement, critical reflection, and experimentation.
 
 Push yourself!
 
@@ -34,35 +34,50 @@ The grading of the experiment and the reflective essay will follow the unessay c
 
 It would be a good idea to bring your laptop or device to each session. Remember, you don't need to be 'techy', whatever that means. You just have to be willing to give it a go and to be open and frank about what happened next. And you know what else?
 
+## Due Dates
+
+- By the end of September: 3 entries for the Open Notebooks
+- By the end of October: 3 entries for the Open Notebooks
+- By the end of November: 3 entries for the Open Notebooks
+
+- Experiment - the progress of the experiment will be part of what gets documented in your open notebook. Feedback will be ongoing. The experiment can be drawn to a conclusion in mid November, but a precise end date can be negotiated. Process is what I'm interested in, so even something that ostensibly doesn't come together the way you thought/hoped it might is not cause for alarm.
+- Unessay: Dec 10
+
+- Session Leading: As appropriate (to be determined in meeting 1)
+
+---
+
 # You do not have to work in isolation
 
 Digital history can be very frustrating. You don't have to work in isolation. You may collaborate; you can google for solutions (but for the love of god DO NOT accept any ai-generated 'answer' without talking with me first, ok?); you can ask for advice where ever seems appropriate. Make sure, when you do get frustrated (and you will), to just walk away from the computer. If it doesn't come after 30 minutes it won't come after 3 hours of faffing. I don't want to here about heroic hours spent fighting with the computer. There is more than one way to do things digital, and when you're frustrated you won't find any of them. Shut it down, go for a walk, have a coffee. Come back when you're fresh.
 
 But do acknowledge in your work any collaboration or help you have received. Failure to acknowledge help received will be regarded like a failure to cite.
 
-# But what about AI?
+## But what about AI?
 
-'AI' is mostly a marketing term. But there may be cases where it is appropriate to use things like LLM (large language models) or other such tools in the context of doing digital history. 
+'AI' and its tech stacks are dangerous for what they may do in terms of deskilling us or confirming our own biases for us. But there may be cases where it is appropriate to use things like LLM (large language models) or other such tools in the context of doing digital history as a kind of force-multiplier. Historians have used AI 
 
 + for understanding what code does
 + for making alterations to example code for a particular use
 + for expanding code to do new things.
-+ when a tutorial or how-to employs such a technology 
++ for exploring embeddings/latent spaces, data linking, etc...
 
-**However**: 
-	
-+ you **may NOT** use such tools for your open notebooks, because... _what would be the point?_ The open notebook is for Future You. So... just don't, ok?
+...and so may you. With guidance.
 
+{: .warning } 
+You **may NOT** use such tools to write your open notebooks, because... _what would be the point?_ The open notebook is for Future You. So... just don't, ok?
 
-# Grading
+---
+
+## Grading
 
 The university makes me put percentages on these different aspects, though I like many other scholars view such things as antithetical to real learning. Take these numbers as indications of the relative effort I would like you to expend.
 
-Open notebook entries/collegial contribution: 40%
+- Open notebook entries/collegial contribution: 30%
 
-Experiment: 30%
+- Experiment: 30%
 
-Unessay: 30%
+- Unessay: 40%
 
 ## Caveat
 
