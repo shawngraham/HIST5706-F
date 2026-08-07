@@ -251,7 +251,7 @@ Let's take a look at [canadiana.ca](https://www.canadiana.ca/search/). Enter a q
 
 Then give this a try:
 
-[link to colab notebook in due course](#)
+[link to colab notebook in due course](https://colab.research.google.com/drive/1gS02yA0epRZPe81JeDiEsbkkRC6yW-KH?usp=sharing)
 
 + Williamson, Evan Peter. ‘Fetching and Parsing Data from the Web with OpenRefine’. Programming Historian, Aug. 2017. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine).
 
