@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "Pelican"
-date:   2026-08-07 8:36:30 +0100
-tags:   staticSites
+parent: Updates
 nav_enabled: false
 ---
 

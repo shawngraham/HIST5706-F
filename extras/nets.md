@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "Networks For Fun and Profit!"
-date:   2024-09-25 8:36:30 +0100
-tags:   networks
+parent: Updates
 nav_enabled: false
 ---
 

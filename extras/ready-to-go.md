@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "Ready To Go"
-date:   2024-08-20 10:36:30 +0100
-tags:   first
+parent: Updates
 nav_enabled: false
 ---
 

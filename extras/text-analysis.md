@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "Topic Models"
-date:   2024-09-26 10:36:30 +0100
-tags:   topicModels, data, scripts
+parent: Updates
 nav_enabled: false
 ---
 
