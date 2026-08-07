@@ -117,7 +117,7 @@ Please read the following tutorials about building static websites, especially t
 
 **To do**
 
-We'll build a website using [Pelican](https://getpelican.com/#quickstart), which is a python package that will read a folder of text files (in the markdown format), pass them through a template, and spit out the necessary html files that make a website. We'll then put these files online using Github Pages. (See my notes on using Obsidian - or other noteaking app using wikilinks eg Pelican - to write the markdown [here](../extras/pelicans.html)). 
+We'll build a website using [Pelican](https://getpelican.com/#quickstart), which is a python package that will read a folder of text files (in the markdown format), pass them through a template, and spit out the necessary html files that make a website. We'll then put these files online using Github Pages. (See my notes [here](./extras/pelicans.html)). 
 
 ---
 

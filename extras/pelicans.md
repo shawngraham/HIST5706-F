@@ -5,7 +5,7 @@ parent: Updates
 nav_enabled: false
 ---
 
-![](../../../images/pelican-3.webp)
+![](../images/pelican-3.webp)
 
 ## Maintaining a Scholarly Presence
 
