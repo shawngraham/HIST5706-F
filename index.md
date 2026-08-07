@@ -24,6 +24,19 @@ There are a variety of flavours of digital history; I tend to categorize them by
 
 I confess, I tend more towards the third option in my own work. But I also sometimes get creative; I do work in [data sonification](https://programminghistorian.org/en/lessons/sonification) for instance. If you want some guidance for that side of things, just let me know.
 
+## Digital History is Part of the Digital Humanities
+
+That is to say, I make a distinction between computational history and digital history. The former deploys tools to answer or solve problems. The latter requires a bit more unpacking:
+
+{: .note } 
+Digital History, as something that can be part of the Digital Humanities, is not unified by a set of methods or necessarily some borrowed-French-Philosophy. But as part of DH, I think [Lisa Spiro's 2012 piece '"This Is Why We Fight": Defining the Values of the Digital Humanities'](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/9e014167-c688-43ab-8b12-0f6746095335) captures so much of what makes DH... DH. Please have this read as soon as possible, because I want to talk about this on day 1. Please also read the following sections from Adam DJ Brett's piece on defining DH: [Definition Debate](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities/#the-definition-debates-and-why-they-matter); [Transformations not tools](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities/#transformations-not-tools)
+
+>Digital humanities are a contested ensemble of methods, infrastructures, pedagogies, institutions, and critical practices through which humanists create, preserve, model, analyze, publish, and critique cultural evidence in digital forms. [...] "Contested" because the field has argued about its own boundaries for decades, and those arguments are themselves part of the field. "Ensemble" because no single method or tool defines it. "Cultural evidence" because the objects of humanistic study, whether a medieval manuscript, a nineteenth-century sermon, a bundle of letters, or an archaeological site, are what the whole apparatus exists to serve. And "in digital forms" because the heart of the matter is transformation. A manuscript becomes an image. A sermon becomes machine-readable text. A correspondence becomes a network. A landscape becomes a map layer. Digital humanities is the study of what happens in those transformations, what they make possible, and what they put at risk. - [Adam DH Brett](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities)
+
+This course lives within that framework.
+
+# Goals
+
 My goals are several:
 + for you to identify which lens interests you most
 + develop foundational abilities for pursuing those interests
@@ -54,7 +67,7 @@ You will reflect on how the tutorial you will lead intersects with your other co
 {: .note }
 I've taught varieties of this course over the years. The most successful version was fully online, asynchronous, and exhausting, but it _worked_. The reason it worked is because people made a good faith effort to connect with one another, to support one another, to share problems and solutions. **Digital history can't be done by heroic lone scholars**. To ask for help is a sign of strength and scholarly maturity.
 
-## So let's get started
+# So let's get started
 
 I'm not trying to teach you 'how to code'. I'm teaching you how to see the world from a particular perspective. My ambition is that this will equip you to deepen your scholarly sensibility and ambition. To that end, spend some time with:
 
