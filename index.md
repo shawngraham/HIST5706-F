@@ -1,6 +1,7 @@
 ---
-layout: page
-title: HIST5706f Digital History, Fall 2024 @ Carleton U
+title: Home
+layout: home
+nav_order: 0
 ---
 
 ![Mt. Everest from Gokyo Ri November 5, 2012 Cropped](images/Mt._Everest_from_Gokyo_Ri_November_5,_2012_Cropped.jpg)
@@ -29,11 +30,13 @@ I confess, I tend more towards the third option in my own work. But I also somet
 That is to say, I make a distinction between computational history and digital history. The former deploys tools to answer or solve problems. The latter requires a bit more unpacking:
 
 {: .note } 
-Digital History, as something that can be part of the Digital Humanities, is not unified by a set of methods or necessarily some borrowed-French-Philosophy. But as part of DH, I think [Lisa Spiro's 2012 piece '"This Is Why We Fight": Defining the Values of the Digital Humanities'](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/9e014167-c688-43ab-8b12-0f6746095335) captures so much of what makes DH... DH. Please have this read as soon as possible, because I want to talk about this on day 1. Please also read the following sections from Adam DJ Brett's piece on defining DH: [Definition Debate](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities/#the-definition-debates-and-why-they-matter); [Transformations not tools](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities/#transformations-not-tools)
+Digital History, as something that can be part of the Digital Humanities, is not unified by a set of methods or philosophy. But as part of DH, I think [Lisa Spiro's 2012 piece '"This Is Why We Fight": Defining the Values of the Digital Humanities'](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/9e014167-c688-43ab-8b12-0f6746095335) captures so much of what makes DH... DH. Please have this read as soon as possible, because I want to talk about this on day 1. Please also read the following sections from [Adam DJ Brett's piece on defining DH](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities)): 1. [Definition Debate](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities/#the-definition-debates-and-why-they-matter)| 2. [Transformations not tools](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities/#transformations-not-tools)
 
->Digital humanities are a contested ensemble of methods, infrastructures, pedagogies, institutions, and critical practices through which humanists create, preserve, model, analyze, publish, and critique cultural evidence in digital forms. [...] "Contested" because the field has argued about its own boundaries for decades, and those arguments are themselves part of the field. "Ensemble" because no single method or tool defines it. "Cultural evidence" because the objects of humanistic study, whether a medieval manuscript, a nineteenth-century sermon, a bundle of letters, or an archaeological site, are what the whole apparatus exists to serve. And "in digital forms" because the heart of the matter is transformation. A manuscript becomes an image. A sermon becomes machine-readable text. A correspondence becomes a network. A landscape becomes a map layer. Digital humanities is the study of what happens in those transformations, what they make possible, and what they put at risk. - [Adam DH Brett](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities)
+I really like this bit:
 
-This course lives within that framework.
+>Digital humanities are a contested ensemble of methods, infrastructures, pedagogies, institutions, and critical practices through which humanists create, preserve, model, analyze, publish, and critique cultural evidence in digital forms. [...] "Contested" because the field has argued about its own boundaries for decades, and those arguments are themselves part of the field. "Ensemble" because no single method or tool defines it. "Cultural evidence" because the objects of humanistic study, whether a medieval manuscript, a nineteenth-century sermon, a bundle of letters, or an archaeological site, are what the whole apparatus exists to serve. And "in digital forms" because the heart of the matter is transformation. A manuscript becomes an image. A sermon becomes machine-readable text. A correspondence becomes a network. A landscape becomes a map layer. Digital humanities is the study of what happens in those transformations, what they make possible, and what they put at risk. - [Adam DJ Brett](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities)
+
+This course lives within that framework. 
 
 # Goals
 
