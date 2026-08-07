@@ -3,6 +3,7 @@ layout: post
 title:  "September Already?"
 date:   2024-09-02 10:36:30 +0100
 tags:   gettingStarted
+nav_enabled: false
 ---
 
 The fact that it's now September boggles my mind. 
