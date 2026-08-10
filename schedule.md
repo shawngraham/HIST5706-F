@@ -186,7 +186,7 @@ We'll consider some examples of what digital history looks like, and the kinds o
 
 + Catherine D’Ignazio and Lauren F. Klein, “What Gets Counted Counts” and “The Numbers Don’t Speak for Themselves,” Data Feminism (2020), [https://data-feminism.mitpress.mit.edu/](https://data-feminism.mitpress.mit.edu/).
 + [FAIR](https://www.go-fair.org/fair-principles/), [CARE](https://www.gida-global.org/careprinciples)
-+ Gupta, Neha, Andrew Martindale, Kisha Supernant, and Michael Elvidge. “The CARE Principles and the Reuse, Sharing, and Curation of Indigenous Data in Canadian Archaeology.” Advances in Archaeological Practice 11, no. 1 (2023): 76–89. https://doi-org.proxy.library.carleton.ca/10.1017/aap.2022.33.
++ Gupta, Neha, Andrew Martindale, Kisha Supernant, and Michael Elvidge. “The CARE Principles and the Reuse, Sharing, and Curation of Indigenous Data in Canadian Archaeology.” Advances in Archaeological Practice 11, no. 1 (2023): 76–89. [link](https://doi-org.proxy.library.carleton.ca/10.1017/aap.2022.33).
 
 **To do**
 
@@ -215,19 +215,21 @@ We'll use some of the equipment from the [XLab](https://carleton.ca/xlab) to dig
 **Before coming to class read:**
 
 + Ryan Cordell, 2017. ‘Q i-jtb the Raven’: Taking Dirty OCR Seriously' [_Book History_ 20: 188-225](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/1ortgfo/cdi_proquest_journals_2008107951) (see also [link](https://ryancordell.org/research/qijtb-the-raven/))
-+ Sparrow, T., Bain, K., Kimber, M. and Wilson, A.S. 2024 Visualising Heritage: using 3D immersive technologies to innovate, document and communicate rich narratives for HS2, Internet Archaeology 65. https://doi.org/10.11141/ia.65.7
-+ Scheinfeldt, T. 2025. ‘Handwriting Recognition Roundup’. Found History, 6 Dec. 2025 https://foundhistory.org/handwriting-recognition-roundup/
++ Sparrow, T., Bain, K., Kimber, M. and Wilson, A.S. 2024 Visualising Heritage: using 3D immersive technologies to innovate, document and communicate rich narratives for HS2, Internet Archaeology 65. [link](https://doi.org/10.11141/ia.65.7)
++ Scheinfeldt, T. 2025. ‘Handwriting Recognition Roundup’. Found History, 6 Dec. 2025 [link](https://foundhistory.org/handwriting-recognition-roundup/)
 
 **To do**
 
 Bring a small object that you might like to document in 3d, or some documents you'd like to scan. For 3d work, we might start with [this piece of equipment](https://carleton.ca/xlab/2026/equipment-how-to-the-three-matter-and-form-scanner/). We might try LIDAR scanning the classroom or perhaps the Quad, we'll see.
 
-We'll also try Crump, Jon. ‘Generating an Ordered Data Set from an OCR Text File’. Programming Historian, Nov. 2014. programminghistorian.org, https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file versus dropping an image into an LLM and asking for structured data 
+We'll also try Crump, Jon. ‘Generating an Ordered Data Set from an OCR Text File’. Programming Historian, Nov. 2014. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file) 
 
-**What comes next**
+If you have a google gmail account, we can try dropping an image into an LLM and asking for structured data in return. 
+
+**Side Quest:**
 Speaking of images, sometimes the most useful thing we can do is systematically keep track of both the images AND our annotations. That's what Tropy's for. And once we've gotten a collection of annotated images, _sharing_ those notes, images, and annotations might be the most [_generous_](https://generousthinking.hcommons.org/) thing we could do.
 
-**Side Quest:** Put your research photos online using a static website via Tropy [(instructions here)](https://electricarchaeology.ca/2024/07/25/make-your-tropy-collection-and-annotations-available-with-canopy/)
+Put your research photos online using a static website via Tropy [(instructions here)](https://electricarchaeology.ca/2024/07/25/make-your-tropy-collection-and-annotations-available-with-canopy/)
 
 ## October 15: Data Metadata, Paradata
 
@@ -243,7 +245,7 @@ There are two kinds of 'research data' that we could make available. There are o
 
 + Handy bit of code: Here's a Google Notebook I made that uses something called 'paddleOCR' to identify text in an image and then OCR it [link](https://colab.research.google.com/drive/1TYhLsOYW4nVfX5NP8Fi-O1QU0_ndj_ik). There are many other options for OCR'ing text. Use this on some of the document scans from last week. Document the result also in terms of its data, metadata, and paradata.
 + See [what doing open notebook history through creating a 'datapage' could look like here](https://datapages.github.io/datapage/) and here's the template for [making such a page ourselves](https://github.com/datapages/datapage). Other options exist (including things like [datasette.io](https://datasette.io)). Find a historical dataset and create a datapage for it.
-+ Cosovschi, Agustín. ‘From Sources to Data: Designing a Database for the Humanities and Social Sciences with Nodegoat’. Programming Historian, Feb. 2024. programminghistorian.org, https://programminghistorian.org/en/lessons/designing-database-nodegoat.
++ Cosovschi, Agustín. ‘From Sources to Data: Designing a Database for the Humanities and Social Sciences with Nodegoat’. Programming Historian, Feb. 2024. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/designing-database-nodegoat).
 
 ## October 22: Discoverability and theorizing Search
 
@@ -252,13 +254,13 @@ Sometimes, historical information that we might want to study is provided via an
 {: .note } 
 Because of adversarial bad-actor scraping of websites by AI companies, many websites, institutions, and individuals have had to put counter measures into place to stop scraping. The materials here might therefore have to be changed to take this into account.
 
-Nb, 'scraping' isn't necessarily a bad thing; a browser works by loading data _onto your own computer_ and scraping is a way to automate retrieval of elements on a webpage. But if it isn't done **politely** (ie, at human-scale rather than machine-scale) it carries serious costs. See for instance Eric Kansa's [recent essay in Internet Archaeology](https://intarch.ac.uk/journal/issue71/15/)
+Nb, 'scraping' isn't necessarily a bad thing; a browser works by loading data _onto your own computer_ and scraping is a way to automate retrieval of elements on a webpage. But if it isn't done **politely** (ie, at human-scale rather than machine-scale) it carries serious costs. See for instance Eric Kansa's [recent essay in Internet Archaeology](https://intarch.ac.uk/journal/issue71/15/).
 
 **To read**
 
-Everyone should read and, perhaps, do:
-
 + Sugimoto, Go. ‘Introduction to Populating a Website with API Data’. Programming Historian, May 2019. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/introduction-to-populating-a-website-with-api-data).
+
++ Underwood, Ted. ‘Theorizing Research Practices We Forgot to Theorize Twenty Years Ago’. Representations, vol. 127, no. 1, Aug. 2014, pp. 64–72. [link](https://www-jstor-org.proxy.library.carleton.ca/stable/10.1525/rep.2014.127.1.64)
 
 **To do**
 
@@ -270,7 +272,7 @@ Then give this a try:
 
 + Williamson, Evan Peter. ‘Fetching and Parsing Data from the Web with OpenRefine’. Programming Historian, Aug. 2017. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine).
 
-Another approach is to parse the structure of the website, and use the Wget command to give it a go. See
+When we're dealing with data organized in a structured tree, one can parse the structure of the website, and use the Wget command to give it a go. See
 
 + Milligan, Ian. ‘Automated Downloading with Wget’. Programming Historian, June 2012. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/automated-downloading-with-wget).
 
@@ -278,7 +280,8 @@ and
 
 + Kurschinski, Kellen. ‘Applied Archival Downloading with Wget’. Programming Historian, Sept. 2013. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/applied-archival-downloading-with-wget).
 
-**!warning!** Badly-formed wget commands (or commands not correctly shut down) can lead to downloading **an awful lot of data** and can make you look like a bad-actor, which we do not want.
+{: .warning }  
+Badly-formed wget commands (or commands not correctly shut down) can lead to downloading **an awful lot of data** and can make you look like a bad-actor, which we do not want. AI companies have largely posioned the well for these methods as something we might use.
 
 
 ---
@@ -323,7 +326,7 @@ Now that we've got a whole bunch of text, what might we do? I love the Data Sitt
 
 + Mähr, Moritz. ‘Working with Batches of PDF Files’. Programming Historian, Jan. 2020. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files). After OCR'ing pdfs, it does some topic modeling.
 
-+ If your documents are in a folder of text files, give [this a try instead](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html). The topic modeling tool uses MALLET under the hood (and you can learn more about how _that_ works and why, [here](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet).) Here's [a zip file with the text of historical plaques from Toronto that you can try fitting a topic model to](http://www.themacroscope.org/1.0/datafiles/toronto-plaques.zip). What patterns in 'public memory' do you find?
++ If your documents are kep as text files, give [this a try instead](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html). The topic modeling tool uses MALLET under the hood (and you can learn more about how _that_ works and why, [here](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet).) Here's [a zip file with the text of historical plaques from Toronto that you can try fitting a topic model to](http://www.themacroscope.org/1.0/datafiles/toronto-plaques.zip). What patterns in 'public memory' do you find?
 
 ---
 
@@ -345,8 +348,8 @@ What can we see if look at vast amounts of historical imagery at once? I've just
 
 **To do**
 
++ Play with [Teachable Machines](https://teachablemachine.withgoogle.com/)
 + Strien, Daniel van, et al. ‘Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 1)’. Programming Historian, Aug. 2022. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt1).
-
 + Strien, Daniel van, et al. ‘Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 2)’. Programming Historian, Aug. 2022. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt2).
 
 ## Nov 26: Knowledge Graphs, vectors, embeddings
@@ -355,9 +358,9 @@ Language models work by expressing patterns in the training corpus as vectors in
 
 **To Read**
 
-+ Schmidt, Ben. 2015. https://benschmidt.org/posts/2015-10-25-Word-Embeddings/ and https://benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary/.
++ Schmidt, Ben. 2015. [Word Embeddings](https://benschmidt.org/posts/2015-10-25-Word-Embeddings/) and [Word Embeddings: Rejecting the Gender Binary](https://benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary/).
 + Graham, S., Yates, D., El-Roby, A., Brousseau, C., Ellens, J. and McDermott, C. (2023) ‘Relationship prediction in a knowledge graph embedding model of the illicit antiquities trade’, Advances in Archaeological Practice, 11(2), pp. 126–138. [link](https://traffickingculture.org/uploads/2023/06/Graham-et-al.pdf)
-+ Graham, Shawn. Once Upon A Time: The Behaviour Space(s) of Stories. https://electricarchaeology.ca/2026/06/03/once-upon-a-time-the-behaviour-spaces-of-stories/
++ Graham, Shawn. Once Upon A Time: The Behaviour Space(s) of Stories. [link](https://electricarchaeology.ca/2026/06/03/once-upon-a-time-the-behaviour-spaces-of-stories/)
 
 **To Explore**
 
