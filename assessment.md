@@ -12,15 +12,15 @@ Push yourself!
 Don't just take it in, be active in the class discussion. Leadership and positive contributions to the class discussion, wherever that takes place. Each session will involve hacking, poking, prodding, and otherwise doing digital history. We can spend time every session considering how all of this will play to the experiment as well.
 
 ## Open Notebooks
-9 meeting entries (you are encouraged to make a repository in github just for these). Your entries should/could reflect on the readings, the discussion, and what you learned from the session leader's experience that week. **Ideally you'll write these during class time**. 
+9 meeting entries (you are encouraged to make a repository in github just for these). Your entries should/could reflect on the readings, the discussion, and what you learned from the session leader's experience that week. **Ideally you'll write these during class time**. Bullet points are fine if that works for you. The gold standard is: "Can Future Me understand what Past Me was doing and can Future Me pick up the thread without issue?"
 
-You should also be frequently documenting your experiment as it develops. If you are working on a tutorial of some kind, make a particular note about any hidden 'gotchas' you encounter. Video notes/walk throughs are encouraged. You can post these on youtube, vimeo, or similar.  You will select your nine best entries for me to grade. Again, **YOU WILL WRITE THESE DURING APPROPRIATE CLASS TIME** Therefore bullet points etc are appropriate. These are like 'lab notebooks' that help you document your experiments and understanding. They are not great works of literature. They are notes to help 'Future You' to understand what the hell 'Past You' was up to.
+You should also be frequently documenting your experiment as it develops. If you are working on a tutorial of some kind, make a particular note about any hidden 'gotchas' you encounter. Video notes/walk throughs are encouraged. You can post these on youtube, vimeo, or similar. These are like 'lab notebooks' that help you document your experiments and understanding. They are not great works of literature. They are notes to help 'Future You' to understand what the hell 'Past You' was up to.
 
 ## Discussion Leading
 
-For 1 or 2 sessions (depending on enrollment numbers) you will lead the group through your experience with a paricular Programming Historian tutorial (these will be assigned). Walk us through the goals of the tutorial, the nature of the examples, the hidden gotchas, the tacit assumptions, the hiccups, rough patches, dead ends, frustrations, and triumphs. Expand on the tutorial by thinking through how you might use it on a research question pertinent to your own MA work; think through what the tutorial might usefully help us do or learn or see in Mallory's writings. 
+For 1 or 2 sessions (depending on enrollment numbers) you will lead the group through your experience with a paricular week's 'to do' section as they give it a try in the relevant week (these will be assigned). Walk us through the goals of the tutorial, the nature of the examples, the hidden gotchas, the tacit assumptions, the hiccups, rough patches, dead ends, frustrations, and triumphs. Expand on the tutorial by thinking through how you might use it on a research question pertinent to your own MA work; think through what the tutorial might usefully help us do or learn or see in Mallory's writings. 
 
-The tutorials in question are listed on the [schedule](../schedule) page; I'm open to alternatives at _The Programming Historian_ or elsewhere if they are germane to the larger thrust of the week or there is some compelling reason; talk to me first though.
+The tutorials in question are listed on the [schedule](../schedule) page; many of them are from _The Programming Historian_ but if you should know of something else you'd like to try germane to the larger thrust of the week that might be possible; talk to me first though.
 
 ## Experiment 
 The major experiment in this class will be to explore the issues of digital history as discussed in this course in the context of Mallory's papers. You will deploy (and document) at least three congruent tools/approaches learned from the _The Programming Historian_ (and/or other resources) using Mallory's writings as datasource. By 'congruent' I mean, 'makes sense that these things go together towards a reasonable goal'. 
@@ -40,7 +40,7 @@ It would be a good idea to bring your laptop or device to each session. Remember
 - By the end of October: 3 entries for the Open Notebooks
 - By the end of November: 3 entries for the Open Notebooks
 
-- Experiment - the progress of the experiment will be part of what gets documented in your open notebook. Feedback will be ongoing. The experiment can be drawn to a conclusion in mid November, but a precise end date can be negotiated. Process is what I'm interested in, so even something that ostensibly doesn't come together the way you thought/hoped it might is not cause for alarm.
+- Experiment - the progress of the experiment will be part of what gets documented in your open notebook. Feedback will be ongoing. The experiment can be drawn to a conclusion in mid November, but a precise end date can be negotiated. Process is what I'm interested in, so even something that ostensibly doesn't come together the way you thought/hoped it might is not cause for alarm. **I repeat** something that just doesn't _work_ still has something to teach us. If you think that might be happening in your own case, just talk to me, let me help you see the value.
 - Unessay: Dec 10
 
 - Session Leading: As appropriate (to be determined in meeting 1)
