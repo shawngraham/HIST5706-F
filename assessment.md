@@ -23,9 +23,18 @@ For 1 or 2 sessions (depending on enrollment numbers) you will lead the group th
 The tutorials in question are listed on the [schedule](../schedule) page; many of them are from _The Programming Historian_ but if you should know of something else you'd like to try germane to the larger thrust of the week that might be possible; talk to me first though.
 
 ## Experiment 
-The major experiment in this class will be to explore the issues of digital history as discussed in this course in the context of Mallory's papers. You will deploy (and document) at least three congruent tools/approaches learned from the _The Programming Historian_ (and/or other resources) using Mallory's writings as datasource. By 'congruent' I mean, 'makes sense that these things go together towards a reasonable goal'. 
+The major experiment in this class will be to explore the issues of digital history as discussed in this course in the context of Mallory's papers. You will deploy (and document) at least three congruent tools/approaches learned from the _The Programming Historian_ (and/or other resources) using Mallory's writings as datasource. By 'congruent' I mean, 'makes sense that these things go together towards a reasonable goal'. Process is what I'm interested in, so even something that ostensibly doesn't come together the way you thought/hoped it might is not cause for alarm. **I repeat** something that just doesn't _work_ still has something to teach us. If you think that might be happening in your own case, just talk to me, let me help you see the value.
 
-This experiment can be an individual effort, or a collaborative effort. The experiment will have a public-facing website that you create documenting the data, its transformations, your analytical apparatus, observations or conclusions.
+This experiment can be an individual effort, or a collaborative effort. The experiment should have
++ a public-facing website that you create documenting 
+	+ the data, 
+	+ its transformations, 
+	+ your analytical apparatus, 
+	+ observations or conclusions.
++ your paradata (the unessay)
+	+ this can be public, as part of the public-facing work, or private, delivered to me alone.
+
+_If you've got a compelling dataset already that you want to explore, I am open to you using that rather than Mallory's papers. Talk to me._
 
 ## Reflective Short Unessay
 This [unessay](https://people.uleth.ca/~daniel.odonnell/teaching/the-unessay) reflects on the issues of digital history as experienced by the student in the course of completing the major experiment. The length and format need only be 'appropriate' and 'compelling'. It can be built into a 'paradata' section to accompany your experiment (where 'paradata' is a document that explains how/why/etc for a digital project, the hidden work to make the thing _real_). This unessay may be highly personal, and does not necessarily need to be 'written' in a text-forward dead-tree format. 
@@ -36,13 +45,16 @@ It would be a good idea to bring your laptop or device to each session. Remember
 
 ## Due Dates
 
+Open Notebooks:
 - By the end of September: 3 entries for the Open Notebooks
 - By the end of October: 3 entries for the Open Notebooks
 - By the end of November: 3 entries for the Open Notebooks
 
-- Experiment - the progress of the experiment will be part of what gets documented in your open notebook. Feedback will be ongoing. The experiment can be drawn to a conclusion in mid November, but a precise end date can be negotiated. Process is what I'm interested in, so even something that ostensibly doesn't come together the way you thought/hoped it might is not cause for alarm. **I repeat** something that just doesn't _work_ still has something to teach us. If you think that might be happening in your own case, just talk to me, let me help you see the value.
+Experiment & Unessay:
+- the progress of the experiment will be part of what gets documented in your open notebook. Feedback will be ongoing. The experiment can be drawn to a conclusion in mid November, but a precise end date can be negotiated. 
 - Unessay: Dec 10
 
+Session Leading:
 - Session Leading: As appropriate (to be determined in meeting 1)
 
 ---
@@ -65,7 +77,7 @@ But do acknowledge in your work any collaboration or help you have received. Fai
 ...and so may you. With guidance.
 
 {: .warning } 
-You **may NOT** use such tools to write your open notebooks, because... _what would be the point?_ The open notebook is for Future You. So... just don't, ok?
+You **may NOT** use such tools to write your open notebooks, because... _what would be the point?_ Writing is thinking. 
 
 ---
 
