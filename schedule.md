@@ -147,13 +147,22 @@ Kim Martin. 'Clio, Rewired: Propositions for the Future of Digital History Pedag
 
 **To install:**
 
-[Plainva](https://plainva.com/) is a note writing and management overlay for a folder of plain-text files. I want you to keep your notes for this class (your thoughts, your observations, your scratch pad as you fight with things) as plain text files. Not word. Not one note. You might have a nice system set up already, but for my pedagogical purposes: plain text files using the .md file extension. [Sublime Text](https://www.sublimetext.com/), [Notepad++](https://notepad-plus-plus.org/downloads/), [Obsidian](https://obsidian.md/), or [Tangent](https://www.tangentnotes.com/) are other possibilities. I am also intrigued by [orsn](https://orsn.io/) as it seems to be tailor-made for the kind of work we're doing. The advantage of Plainva is that it comes with some excellent features for making sense of your notes. _And it is harder to kill plain text through neglect_ [see Brett, part 5 of his essay](https://www.adamdjbrett.com/blog/dh-part-5-preserving-digital-humanities-projects/)
+I want you to keep your notes for this class (your thoughts, your observations, your scratch pad as you fight with things) as plain text files. Not word. Not one note. You might have a nice system set up already, but for my pedagogical purposes: plain text files using the .md file extension. _It is harder to kill plain text through neglect_ [see Brett, part 5 of his essay](https://www.adamdjbrett.com/blog/dh-part-5-preserving-digital-humanities-projects/). Some options:
++ [Sublime Text](https://www.sublimetext.com/), 
++ [Notepad++](https://notepad-plus-plus.org/downloads/)
++ [Obsidian](https://obsidian.md/)
++ [Tangent](https://www.tangentnotes.com/)
++ I am also intrigued by [orsn](https://orsn.io/) as it seems to be tailor-made for the kind of work we're doing. 
++ [Plainva](https://plainva.com/) seems promising too (the advantage of Plainva is that it comes with an onboarding session that provides you with some default organization features for making sense of your notes). 
 
-[Zotero](https://zotero.org) for research management (bibliographies, citations, pdf annotations, and note making)
+Bibliographic management:
++ [Zotero](https://zotero.org) for research management (bibliographies, citations, pdf annotations, and note making)
++ [Tropy](https://tropy.org) for research management of photographic materials (whether your own photos or other kinds of imagery)
 
-[Tropy](https://tropy.org) for research management of photographic materials (whether your own photos or other kinds of imagery)
+Code sharing/collaboration:
++ We will set up [github accounts](https://github.com) too. 
 
-We will set up [github accounts](https://github.com) too. **Do not pay for anything**. _Nothing I ask you to do here should involve paying for an account or access. If you find yourself at any point this term being asked for a credit card, **stop** and talk to me._ )
+**Do not pay for anything**. _Nothing I ask you to do here should involve paying for an account or access. If you find yourself at any point this term being asked for a credit card, **stop** and talk to me._ )
 
 We will spend a bit of time setting up your own personal research management environment and talking about this in general; this isn't so much a part of 'digital history' as 'strategies to keep you sane.'
 
@@ -175,7 +184,7 @@ Once we get set up, let's do -
 
 + Heppler, Jason A. ‘How I Use Obsidian’. Jason Heppler Weblog, July 2024. jasonheppler.org, [link](https://jasonheppler.org/2024/07/15/how-i-use-obsidian/).
 
-+ Heppler, Jason A. ‘How I Use Obsidian Redux’. Jason Heppler Weblog, January 2026 https://jasonheppler.org/2026/01/08/how-i-use-obsidian-redux/
++ Heppler, Jason A. ‘How I Use Obsidian Redux’. Jason Heppler Weblog, January 2026 [link](https://jasonheppler.org/2026/01/08/how-i-use-obsidian-redux/)
 
 
 ## Sept 17: Digital History in the Wild

@@ -30,7 +30,7 @@ I confess, I tend more towards the third option in my own work. But I also somet
 That is to say, I make a distinction between computational history and digital history. The former deploys tools to answer or solve problems. The latter requires a bit more unpacking:
 
 {: .note } 
-Digital History, as something that can be part of the Digital Humanities, is not unified by a set of methods or philosophy. But as part of DH, I think [Lisa Spiro's 2012 piece '"This Is Why We Fight": Defining the Values of the Digital Humanities'](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/9e014167-c688-43ab-8b12-0f6746095335) captures so much of what makes DH... DH. Please have this read as soon as possible, because I want to talk about this on day 1. Please also read the following sections from [Adam DJ Brett's piece on defining DH](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities)): 1. [Definition Debate](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities/#the-definition-debates-and-why-they-matter)| 2. [Transformations not tools](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities/#transformations-not-tools)
+Digital History, as something that can be part of the Digital Humanities, is not unified by a set of methods or philosophy. But as part of DH, I think [Lisa Spiro's 2012 piece '"This Is Why We Fight": Defining the Values of the Digital Humanities'](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/9e014167-c688-43ab-8b12-0f6746095335) captures so much of what makes DH... DH. Please have this read as soon as possible, because I want to talk about this on day 1. Please also read the following sections from [Adam DJ Brett's piece on defining DH](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities)): 1. [Definition Debate](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities/#the-definition-debates-and-why-they-matter) 2. [Transformations not tools](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities/#transformations-not-tools)
 
 I really like this bit:
 
@@ -41,9 +41,9 @@ This course lives within that framework.
 # Goals
 
 My goals are several:
-+ for you to identify which lens interests you most
-+ develop foundational abilities for pursuing those interests
-+ develop a professional online persona on a digital space that you control
++ for you to identify a lens on the work that interests you
++ for you to develop foundational abilities for pursuing those interests
++ for you to develop a reflexive engagement with the shifting landscape of digital transformations as they pertain to history / public history.
 
 I expect you to [fail gloriously](https://thedigitalpress.org/wp-content/uploads/2019/12/failing_gloriously_final.pdf), which is to say: digital work is frustrating and things often don't work the way you want them to. To 'fail gloriously' is to be open about what has not worked (as is safe/appropriate for you to do so, given your own situation) so that your colleagues and peers can learn from your experience. Basically, it's silly to always be reinventing research, research workflows, etc all the time.
 
