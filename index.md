@@ -16,7 +16,7 @@ _most recent update: August 7 2026_
 
 Magdalen College Cambridge holds [the archive of the explorer George Mallory](https://magdalene.maxarchiveservices.co.uk/index.php/mallory-george-herbert-leigh). We are going to work with this body of materials to learn various tools and techniques of digital history. Well, this body and several others. Things are fluid. This is all about the journey, after all. And that's at least three different metaphors. Anyway. 
 
-I am starting a project on the archaeology of Mount Everest called [The Archaeology Impossible Project](https://archaeologyimpossible.github.io/), and so I am using this course to not only give you an opportunity to work with a bounded, interesting, corpus of historical documents but also to kick start the project. Go have a look now at what that project proposes. Then come back here.
+I am starting a project on the archaeology of Mount Everest called [The Archaeology Impossible Project](https://archaeologyimpossible.github.io/), and so I am using this course to not only give you an opportunity to work with a bounded, interesting, corpus of historical documents but also to kick start the project. Go have a look now at what that project proposes. Then come back here. (I feel I should point out that the AIP is about climbing culture in general, not Mallory in particular. I also have other sets of materials that I am pulling together for AIP that we might explore - mainly imagery, but also some stats.)
 
 There are a variety of flavours of digital history; I tend to categorize them by the eventual aims of the investigator. 
 + There is a digital history meant as preservation and access: aspects of digitization, data management, metadata. 
