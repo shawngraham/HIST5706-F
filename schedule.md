@@ -276,7 +276,7 @@ Let's take a look at [canadiana.ca](https://www.canadiana.ca/search/). Enter a q
 
 Then give this a try:
 
-[link to colab notebook(https://colab.research.google.com/drive/1gS02yA0epRZPe81JeDiEsbkkRC6yW-KH?usp=sharing)
+[link to colab notebook](https://colab.research.google.com/drive/1gS02yA0epRZPe81JeDiEsbkkRC6yW-KH?usp=sharing)
 
 + Williamson, Evan Peter. ‘Fetching and Parsing Data from the Web with OpenRefine’. Programming Historian, Aug. 2017. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine).
 
@@ -377,7 +377,7 @@ Eric Kansa's [visualization of the the archaeological materials from Poggio Civi
 **To do**
 
 + Build a knowledge graph embedding model: [colab notebook](https://colab.research.google.com/drive/1nhPWgDjaoBwZkV8V_4q8Q8P2Nt13cNx6?usp=sharing) (save a copy to your own gdrive and then work from that, remember.)
-+ Build a custom image search model (go to google colab, open a notebook from github, and paste in this url) https://github.com/shawngraham/pn_notebooks/blob/main/2_experiment_2_Use_ArchaeoCLIP_in_a_notebook.ipynb
++ Build a custom image search model (go to google colab, open a notebook from github, and paste in this url) [https://github.com/shawngraham/pn_notebooks/blob/main/2_experiment_2_Use_ArchaeoCLIP_in_a_notebook.ipynb](https://github.com/shawngraham/pn_notebooks/blob/main/2_experiment_2_Use_ArchaeoCLIP_in_a_notebook.ipynb)
 
 
 ---
@@ -410,9 +410,9 @@ And there's a whole lot more that could be done; check out [Epoiesen](https://ep
 
 **To read**
 
-+ Arts & Humanities Research Computing. https://digitalhumanities.fas.harvard.edu/resources/sunsetting/. Accessed 10 Aug. 2026. https://digitalhumanities.fas.harvard.edu/resources/sunsetting/
++ Arts & Humanities Research Computing. Sunsetting [link](https://digitalhumanities.fas.harvard.edu/resources/sunsetting/). 
 + Holmes, Martin, and Joey Takeda. ‘From Tamagotchis to Pet Rocks: On Learning to Love Simplicity through the Endings Principles’. Digital Humanities Quarterly, vol. 017, no. 1, May 2023.
-+ Endings Project, Principles: https://endings.uvic.ca/principles.html
++ Endings Project, Principles: [link](https://endings.uvic.ca/principles.html)
 
 **To mull**
 Perhaps digital projects _should_ be allowed to die? And: just because something is digital in nature, does that automatically mean that it has to be accessible _to_ the web? Especially in this age where culture is being taken to pieces, and monetized through llms?
