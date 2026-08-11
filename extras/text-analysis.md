@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Topic Models"
-parent: Updates
+parent: updates
 nav_enabled: false
 ---
 

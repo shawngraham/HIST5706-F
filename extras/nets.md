@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Networks For Fun and Profit!"
-parent: Updates
+parent: updates
 nav_enabled: false
 ---
 

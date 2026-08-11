@@ -153,7 +153,6 @@ I want you to keep your notes for this class (your thoughts, your observations, 
 + [Obsidian](https://obsidian.md/)
 + [Tangent](https://www.tangentnotes.com/)
 + I am also intrigued by [orsn](https://orsn.io/) as it seems to be tailor-made for the kind of work we're doing. 
-+ [Plainva](https://plainva.com/) seems promising too (the advantage of Plainva is that it comes with an onboarding session that provides you with some default organization features for making sense of your notes). 
 
 Bibliographic management:
 + [Zotero](https://zotero.org) for research management (bibliographies, citations, pdf annotations, and note making)
@@ -208,7 +207,7 @@ Take a look at your assigned Programming Historian tutorial. Pay attention to th
 
 ## Sept 24: No Class
 
-_I am away this day for a conference. I invite you all to get together in a coffee shop, and explore the Reviews in DH and other resources to see if there are examples of the kind of work you'd like to be doing. Then, as a group, feel free to compose an email to me saying, 'how did they do x,y,z, and can we learn that?'. I'm happy to throw things out and rejig so that we let your interests surface._
+_I am away this day for a conference. I invite you all to get together in a coffee shop, and explore the Reviews in DH and other resources to see if there are examples of the kind of work you'd like to be doing. Then, as a group, feel free to compose an email to me saying, 'how did they do x,y,z, and can we learn that?' I'm happy to throw things out and rejig so that we let your interests surface._
 
 ---
 
@@ -277,7 +276,7 @@ Let's take a look at [canadiana.ca](https://www.canadiana.ca/search/). Enter a q
 
 Then give this a try:
 
-[link to colab notebook in due course](https://colab.research.google.com/drive/1gS02yA0epRZPe81JeDiEsbkkRC6yW-KH?usp=sharing)
+[link to colab notebook(https://colab.research.google.com/drive/1gS02yA0epRZPe81JeDiEsbkkRC6yW-KH?usp=sharing)
 
 + Williamson, Evan Peter. ‘Fetching and Parsing Data from the Web with OpenRefine’. Programming Historian, Aug. 2017. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine).
 
@@ -404,6 +403,8 @@ Please read the following tutorials about building static websites, especially t
 We'll build a website using [Pelican](https://getpelican.com/#quickstart), which is a python package that will read a folder of text files (in the markdown format), pass them through a template, and spit out the necessary html files that make a website. We'll then put these files online using Github Pages. (See my notes [here](./extras/pelicans.html)). 
 
 You're also welcome to give my work-in-progress ['Polybius'](https://shawngraham.github.io/polybius/) a try; it's meant to be a generator for a data-driven story telling website. Critiques welcome. See also my rendering of the the Historic Places dataset [here](https://shawngraham.github.io/historicplaces/).
+
+And there's a whole lot more that could be done; check out [Epoiesen](https://epoiesen.carleton.ca).
 
 ## Dec 11: Sunsetting a digital project
 

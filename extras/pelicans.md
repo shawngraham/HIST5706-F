@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Pelican"
-parent: Updates
+parent: updates
 nav_enabled: false
 ---
 
