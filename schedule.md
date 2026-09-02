@@ -422,3 +422,11 @@ Perhaps digital projects _should_ be allowed to die? And: just because something
 **To do**
 
 Let's talk about your own research/experiment. What were the data? What were the transformations? What emerged from this engagement? How you can bring your digital work to a close when doing your thesis or MRE.  
+
+## Into the future?
+
+Have a look at ["The Historian's Desktop"](https://generativelives.substack.com/p/the-historians-desktop) or ["Autarch"](https://arcane-lab.org/autarch/). Taking those as indicative models of future engagement with computational approaches to the past, which of those would you prefer, as a scholar? Consider [Doctorow on Reverse Centaurs](https://pluralistic.net/2025/12/05/pop-that-bubble/). 
+
+Things are changing fast. If a single prompt can accomplish (seemingly) so much, why have I spent so much time trying to teach you the 'hard' way? The last thing I want you to do - and this isn't graded, and it's not for me to pass judgement on as an instructor - is for you to write down your own manifesto for dealing with AI, the digital, going forward.  
+
+Set out your own guidelines. Revise them, revisit them, as you go forward. Whatever you do next: be intentional. Be informed. Be clear about what you will do, and what you will _not_.
