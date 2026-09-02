@@ -402,7 +402,9 @@ Please read the following tutorials about building static websites, especially t
 
 We'll build a website using [Pelican](https://getpelican.com/#quickstart), which is a python package that will read a folder of text files (in the markdown format), pass them through a template, and spit out the necessary html files that make a website. We'll then put these files online using Github Pages. (See my notes [here](./extras/pelicans.html)). 
 
-You're also welcome to give my work-in-progress ['Polybius'](https://shawngraham.github.io/polybius/) a try; it's meant to be a generator for a data-driven story telling website. Critiques welcome. See also my rendering of the the Historic Places dataset [here](https://shawngraham.github.io/historicplaces/).
+Or we can try [cb-essay](https://collectionbuilder.github.io/cb-essay/) which builds a story-driven site from a google sheet filled with metadata.
+
+You're also welcome to give my work-in-progress ['Polybius'](https://shawngraham.github.io/polybius/) a try; like cb-essay, it's meant to be a generator for a data-driven story telling website. Critiques welcome. See also my rendering of the the Historic Places dataset [here](https://shawngraham.github.io/historicplaces/).
 
 And there's a whole lot more that could be done; check out [Epoiesen](https://epoiesen.carleton.ca).
 
