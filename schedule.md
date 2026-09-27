@@ -215,7 +215,9 @@ _I am away this day for a conference. I invite you all to get together in a coff
 
 As we progress up the mountain, things start to get *real*.
 
-## October 1. A few more things
+## October 1. Playfulness
+
+I just got back from a conference ([The Connected Past](https://connectedpast.net/), and it reminded me about what it was like to get started in all of this digital ...stuff. And I was alerted that I'd forgotten to put up a plan for October 1st. And maybe that's a serindipitous development because I want to talk about serendipity, fun, and playfulness when it comes to digital history work. And perhaps scholarship more generally.
 
 Let's consolidate a few things first:
 - Let's go over command line again:[Command Line Murders](https://github.com/veltman/clmystery)
@@ -226,7 +228,13 @@ Now: Do you need to know how to 'code'? What does that even mean, 'to code'? Con
 
 Let's look at this [collection of letters](https://www.gutenberg.org/cache/epub/2087/pg2087.txt). You're working on a project for a historian of the environment, and the main research question is how 19th century scientists envisioned the interaction of humans in an ecological context. What kinds of questions might you ask, and what kinds of analyses have you seen already that could be useful here? Of these, how have they organized their data? Look at the collection of letters. If you were doing all of this by hand, how would you approach the material so that you were systematic? 
 
-Here's a command that we could use to split by a pattern (Mac): ```csplit -f darwin -n 3 pg2087.txt '/CHARLES DARWIN TO/' '{212}'``` [csplit](https://ss64.com/mac/csplit.html).
+Here's a command that we could use to split by a pattern (Mac): 
+
+```bash
+csplit -f darwin -n 3 pg2087.txt '/CHARLES DARWIN TO/' '{212}'
+``` 
+
+(full manual at [csplit](https://ss64.com/mac/csplit.html)).
 
 Here's a windows powershell approach to do the same thing:
 
@@ -234,13 +242,13 @@ Here's a windows powershell approach to do the same thing:
 $i=0; (Get-Content pg2087.txt -Raw) -split '(?m)(?=^CHARLES DARWIN TO)' | ForEach-Object { Set-Content "darwin$("{0:D3}.txt" -f $i++)" $_ }
 ```
 
-(this bit `split '(?m)(?=^PATTERN)'` means look for multiple lines, and make the split at the start of the pattern).
+(this bit `split '(?m)(?=^PATTERN)'` means look for multiple lines, and make the split at the start of the pattern. I had to look up a lot of stack overflow to get a handle on the other powershell commands. Not my forté.)
 
-Now, having done that, let's drop the result into Voyant Tools. _AND_, for extra fun, let's install Voyant on our own machines (and why would we want to do that?) [installation instructions](https://github.com/voyanttools/VoyantServer/wiki/VoyantServer-Tutorial) ; [a voyant mirror courtesy of LINCS if local installation goes wrong](https://voyant.lincsproject.ca/). 
+Now, having done that, let's drop the result into Voyant Tools. _AND_, for extra fun, let's install Voyant on our own machines (and why would we want to do that?) [installation instructions](https://github.com/voyanttools/VoyantServer/wiki/VoyantServer-Tutorial) ; [a voyant mirror courtesy of LINCS if local installation goes wrong](https://voyant.lincsproject.ca/). Let's talk a bit about the legay of Stéfan Sinclair. [This](https://reporter.mcgill.ca/in-memoriam-stefan-sinclair-1972-2020/) and [this](https://nowviskie.org/2022/a-tribute-to-stefan-sinclair/) and [this](https://rlskoeser.github.io/dhqwords/vol/14/2/000493/)... why do I share this? Because we would all be better scholars if we followed his example.
 
-Play. Try out different tools. Explore your corpus. Notice that your split files reflect the chronological sequence used by the original compiler of the letters! That's a handy bonus, since we can see change-over-time. _How do you get your results out of Voyant?_
+So today's session is about play. Try out different tools. Explore this demo corpus. Notice that your split files reflect the chronological sequence used by the original compiler of the letters! That's a handy bonus, since we can see change-over-time. _How do you get your results out of Voyant?_
 
-**Things we used this session** - file and folder creation. Simple commands to reshape 'data'. Exploratory visualization to shape questions (and which might suggest we need to reshape the data...). _Is this coding_? 
+**Things we used this session** - file and folder creation. Simple commands to reshape 'data'. Exploratory visualization to shape questions (and which might suggest we need to reshape the data...). _Is this coding_? _What do we see when we just... play?_
 
 **By the way** Coding for Humanists @ MacOdrum: Wednesdays, October 28 to Wednesday, December 16 from 1:30 p.m. to 4:30 p.m
 
