@@ -215,6 +215,35 @@ _I am away this day for a conference. I invite you all to get together in a coff
 
 As we progress up the mountain, things start to get *real*.
 
+## October 1. A few more things
+
+Let's consolidate a few things first:
+- Let's go over command line again:[Command Line Murders](https://github.com/veltman/clmystery)
+- Let's explore some of the digital literacy module [here](https://test-for-dh-tutorials.netlify.app/lesson/digital-literacy-01)
+- Let's set up a research folder using MacOdrum's fancy tool [generator](https://alpozturkcarleton.github.io/AlpTools/folder-structure-generatorv4.html)
+
+Now: Do you need to know how to 'code'? What does that even mean, 'to code'? Consider the example projects you've already looked at: where is the 'coding' there?
+
+Let's look at this [collection of letters](https://www.gutenberg.org/cache/epub/2087/pg2087.txt). You're working on a project for a historian of the environment, and the main research question is how 19th century scientists envisioned the interaction of humans in an ecological context. What kinds of questions might you ask, and what kinds of analyses have you seen already that could be useful here? Of these, how have they organized their data? Look at the collection of letters. If you were doing all of this by hand, how would you approach the material so that you were systematic? 
+
+Here's a command that we could use to split by a pattern (Mac): ```csplit -f darwin -n 3 pg2087.txt '/CHARLES DARWIN TO/' '{212}'``` [csplit](https://ss64.com/mac/csplit.html).
+
+Here's a windows powershell approach to do the same thing:
+
+```bash
+$i=0; (Get-Content pg2087.txt -Raw) -split '(?m)(?=^CHARLES DARWIN TO)' | ForEach-Object { Set-Content "darwin$("{0:D3}.txt" -f $i++)" $_ }
+```
+
+(this bit `split '(?m)(?=^PATTERN)'` means look for multiple lines, and make the split at the start of the pattern).
+
+Now, having done that, let's drop the result into Voyant Tools. _AND_, for extra fun, let's install Voyant on our own machines (and why would we want to do that?) [installation instructions](https://github.com/voyanttools/VoyantServer/wiki/VoyantServer-Tutorial) ; [a voyant mirror courtesy of LINCS if local installation goes wrong](https://voyant.lincsproject.ca/). 
+
+Play. Try out different tools. Explore your corpus. Notice that your split files reflect the chronological sequence used by the original compiler of the letters! That's a handy bonus, since we can see change-over-time. _How do you get your results out of Voyant?_
+
+**Things we used this session** - file and folder creation. Simple commands to reshape 'data'. Exploratory visualization to shape questions (and which might suggest we need to reshape the data...). _Is this coding_? 
+
+**By the way** Coding for Humanists @ MacOdrum: Wednesdays, October 28 to Wednesday, December 16 from 1:30 p.m. to 4:30 p.m
+
 
 ## October 8. Digitizing 
 
