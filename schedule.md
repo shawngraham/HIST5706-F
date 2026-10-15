@@ -289,7 +289,7 @@ There are two kinds of 'research data' that we could make available. There are o
 **To do**
 
 + Handy bit of code: Here's a Google Notebook I made that uses a vision model to identify text in an image and then OCR it [link](https://colab.research.google.com/drive/1Gkepon_M6yEHQLHPsWMzG0McB5KgCHFF?usp=sharing). There are many other options for OCR'ing text. Use this on some of the document scans from last week. Document the result also in terms of its data, metadata, and paradata.
-+ See [what doing open notebook history through creating a 'datapage' could look like here](https://datapages.github.io/datapage/) and here's the template for [making such a page ourselves](https://github.com/datapages/datapage). Other options exist (including things like [datasette.io](https://datasette.io)). Find a historical dataset and create a datapage for it.
++ See [what doing open notebook history through creating a 'datapage' could look like here](https://datapages.github.io/datapage/). Other options exist (including things like [basic github pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)). Find a historical dataset and create a datapage for it.
 + Cosovschi, Agustín. ‘From Sources to Data: Designing a Database for the Humanities and Social Sciences with Nodegoat’. Programming Historian, Feb. 2024. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/designing-database-nodegoat).
 
 ## October 22: Discoverability and theorizing Search
