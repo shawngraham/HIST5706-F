@@ -143,6 +143,8 @@ Gaffield, Chad. ‘Clio and Computers in Canada and Beyond: Contested Past, Prom
 
 Kim Martin. 'Clio, Rewired: Propositions for the Future of Digital History Pedagogy in Canada' The Canadian Historical Review, vol. 101, no. 4, 2020, pp. 622-639. [link](https://muse-jhu-edu.proxy.library.carleton.ca/pub/50/article/777494/pdf)
 
+---
+
 ## Sept 10. Getting Started
 
 **To install:**
@@ -185,6 +187,8 @@ Once we get set up, let's do -
 
 + Heppler, Jason A. ‘How I Use Obsidian Redux’. Jason Heppler Weblog, January 2026 [link](https://jasonheppler.org/2026/01/08/how-i-use-obsidian-redux/)
 
+---
+
 
 ## Sept 17: Digital History in the Wild
 
@@ -204,6 +208,8 @@ Then, select two pieces from [_Current Research in Digital History_](https://crd
 
 Take a look at your assigned Programming Historian tutorial. Pay attention to the requirements, and try to work out what assumptions the tutorial's author has made about your previous experience and what you need to know to be successful with the tutorial. What are the known unknowns (as it were) for the method?
 
+---
+
 
 ## Sept 24: No Class
 
@@ -214,6 +220,8 @@ _I am away this day for a conference. I invite you all to get together in a coff
 # Camp One
 
 As we progress up the mountain, things start to get *real*.
+
+---
 
 ## October 1. Playfulness
 
@@ -252,8 +260,11 @@ So today's session is about play. Try out different tools. Explore this demo cor
 
 **By the way** Coding for Humanists @ MacOdrum: Wednesdays, October 28 to Wednesday, December 16 from 1:30 p.m. to 4:30 p.m
 
+---
 
 ## October 8. Digitizing 
+
+> **On Deck: Walkthrough of Crump tutorial**
 
 We'll use some of the equipment from the [XLab](https://carleton.ca/xlab) to digitize both physical and documentary objects.
 
@@ -276,7 +287,11 @@ Speaking of images, sometimes the most useful thing we can do is systematically 
 
 Put your research photos online using a static website via Tropy [(instructions here)](https://electricarchaeology.ca/2024/07/25/make-your-tropy-collection-and-annotations-available-with-canopy/)
 
+---
+
 ## October 15: Data Metadata, Paradata
+
+> **On Deck: Walkthrough of Cosovschi tutorial**
 
 Ask yourself: has your research to date been _sustainable_ or _reproducible_ or _replicable_? What do these terms mean, for us? Why should historians care about this sort of thing?
 
@@ -292,7 +307,11 @@ There are two kinds of 'research data' that we could make available. There are o
 + See [what doing open notebook history through creating a 'datapage' could look like here](https://datapages.github.io/datapage/). Other options exist (including things like [basic github pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)). Find a historical dataset and create a datapage for it.
 + Cosovschi, Agustín. ‘From Sources to Data: Designing a Database for the Humanities and Social Sciences with Nodegoat’. Programming Historian, Feb. 2024. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/designing-database-nodegoat).
 
+---
+
 ## October 22: Discoverability and theorizing Search
+
+> **On Deck: Walkthroughs of Sugimoto and Milligan tutorials**
 
 Sometimes, historical information that we might want to study is provided via an 'application programming interface' or API. Sometimes, it's in a webpage that you need to parse in order to get it into a useful format. 
 
@@ -343,6 +362,8 @@ At this point in the climb, we're fully invested in the process. We might have t
 
 ## Nov 7: Networks
 
+> **On Deck: Walkthroughs of Kurschinski and Düring tutorials**
+
 I was a relatively early proponents of network analysis in archaeology. We'll talk about what a network perspective might offer (hey, it made my entire PhD!), as well as perils and pitfalls. (Here's a past [mre using a network approach on Ontario history](https://figshare.com/articles/journal_contribution/Networks_of_Commemoration_Gender_Class_and_the_Remembrance_of_General_Brock_1898_1912/710956?file=1073570))
 
 **To Read**
@@ -361,7 +382,11 @@ A handy tool for quick network visualizations: [https://networknavigator.jrladd.
 
 + Brey, Alex. ‘Temporal Network Analysis with R’. Programming Historian, Nov. 2018. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/temporal-network-analysis-with-r). (You can install RStudio on your machine to run R, or you can change the runtime for Google Colab from Python to R like [so](https://archive.ph/Eqe57).)
 
+---
+
 ## Nov 12: Topic Models and Text Analysis
+
+> **On deck: Walkthroughs of Williamson and Ladd tutorials**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gN2x_KjJI1o?si=IegSYv86dwFWzXsn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -379,7 +404,11 @@ Now that we've got a whole bunch of text, what might we do? I love the Data Sitt
 
 Now we're still cycling backwards and forwards, trying to find the route to the summit, but the way is more or less clear.
 
+---
+
 ## Nov 19: examining images at scale
+
+> **On Deck: Walkthrough of Strien tutorials**
 
 What can we see if look at vast amounts of historical imagery at once? I've just completed a project looking at social media and the trade in human remains (people buy and sell human remains online). A major tool we used were various neural network models trained to discriminate different classes of materials (including retraining such models for our own purposes). This week, I'll talk about that for a bit, and we'll think about under what conditions such approaches would be useful in your own research, and what dangers may lurk.
 
@@ -398,6 +427,8 @@ What can we see if look at vast amounts of historical imagery at once? I've just
 + Strien, Daniel van, et al. ‘Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 2)’. Programming Historian, Aug. 2022. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt2).
 
 ## Nov 26: Knowledge Graphs, vectors, embeddings
+
+> **On Deck: Walkthrough of Brey and Mähr tutorials**
 
 Language models work by expressing patterns in the training corpus as vectors in a multi-dimensional space. Why language models seem so able to do so many things is largely a function of size and speed. In the readings below I give you two pieces from over a decade ago by Ben Schmidt (a digital humanities scholar who now is at a company called Nomic) that introduced to many dh people the idea of vectors and embeddings and the things they could do. I used his code on materials from the human remains trade to understand how sellers 'constructed' the idea of human remains as being something you could sell. Anyway, the technology has progressed and there are uses here for historians in mapping our materials within the huge multidimensional space the corpus as a whole describes.
 
@@ -425,12 +456,15 @@ At the summit, we have achived the main goals, but there's still some work to do
 
 ## Dec 3:
 
+> **On Deck: Walkthrough of Isasi tutorial**
+
 Being able to control your own space online enables a certain kind of freedom. Take a look at some academics' scholarly websites- [Kathleen Fitzpatrick](https://kfitz.info/); [Jason Heppler](https://jasonheppler.org/); [Chantal Brousseau](https://chantalbrousseau.xyz/); [Tim Sherratt](https://timsherratt.au/); [Jim Clifford](https://jimclifford.ca/); [Kim Martin](https://www.kim-martin.ca/). What unifies them? How are they different? What audience(s) do they serve? What constitutes effective presence?
 
 **To read**
 
 Please read the following tutorials about building static websites, especially the _why_ of it all. I'm not a fan of Jekyll - I find it frustrating to use - but I want you to know these things. Don't worry about trying to put together a Jekyll powered site using these tutorials (unless you really want to).
 
++ Isasi, Jennifer. 'Building a Digital Exhibition with CollectionBuilder and the Internet Archive'. Programming Historian, August 2026. programminghistorian. https://programminghistorian.org/en/lessons/digital-exhibition-collectionbuilder
 + Visconti, Amanda. ‘Building a Static Website with Jekyll and GitHub Pages’. Programming Historian, Apr. 2016. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages).
 + Visconti, Amanda, et al. ‘Running a Collaborative Research Website and Blog with Jekyll and GitHub’. Programming Historian, Nov. 2020. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github).
 + Marwick, Ben, et al. ‘Packaging Data Analytical Work Reproducibly Using R (and Friends)’. The American Statistician, vol. 72, no. 1, Jan. 2018, pp. 80–88. [link](https://doi.org/10.1080/00031305.2017.1375986). What bits are applicable to us?
@@ -445,7 +479,7 @@ You're also welcome to give my work-in-progress ['Polybius'](https://shawngraham
 
 And there's a whole lot more that could be done; check out [Epoiesen](https://epoiesen.carleton.ca).
 
-## Dec 11: Sunsetting a digital project
+## Dec 10: Sunsetting a digital project
 
 **To read**
 
