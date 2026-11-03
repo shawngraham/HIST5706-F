@@ -370,7 +370,7 @@ I was a relatively early proponents of network analysis in archaeology. We'll ta
 
 + Ahnert, Ruth, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart. 2020. The Network Turn: Changing Perspectives in the Humanities. Cambridge: Cambridge University Press. [link](https://doi.org/10.1017/9781108866804). (Our library, [direct link](https://www-cambridge-org.proxy.library.carleton.ca/core/services/aop-cambridge-core/content/view/CC38F2EA9F51A6D1AFCB7E005218BBE5/9781108791908AR.pdf/the-network-turn.pdf)). This is a short work, read the **intro** and **part 1**, dip into anything else that strikes your fancy.
 
-+ For examples of network analysis in the wild, [this issue of the Journal of Historical Network Research](https://jhnr.uni.lu/index.php/jhnr/issue/view/8) is great - see in particular [Ruffini's conclusion](https://jhnr.uni.lu/index.php/jhnr/article/view/82/44) to the issue, which addresses the 'so what' and the 'we knew this already' and 'what if we're wrong'. **This is important**. On a similar note, see Lincoln 2015 on 'confabulation in the humanities' [here](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html).
++ For examples of network analysis in the wild, [this issue of the Journal of Historical Network Research](https://jhnr.net/4/volume/4/issue/1) is great - see in particular [Ruffini's conclusion](https://jhnr.net/articles/10.25517/jhnr.v4i0.82) to the issue, which addresses the 'so what' and the 'we knew this already' and 'what if we're wrong'. **This is important**. On a similar note, see Lincoln 2015 on 'confabulation in the humanities' [here](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html).
 
 **To do**
 
