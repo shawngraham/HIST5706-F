@@ -444,8 +444,9 @@ Eric Kansa's [visualization of the the archaeological materials from Poggio Civi
 
 **To do**
 
-+ Build a knowledge graph embedding model: [colab notebook](https://colab.research.google.com/drive/1nhPWgDjaoBwZkV8V_4q8Q8P2Nt13cNx6?usp=sharing) (save a copy to your own gdrive and then work from that, remember.)
-+ Build a custom image search model (go to google colab, open a notebook from github, and paste in this url) [https://github.com/shawngraham/pn_notebooks/blob/main/2_experiment_2_Use_ArchaeoCLIP_in_a_notebook.ipynb](https://github.com/shawngraham/pn_notebooks/blob/main/2_experiment_2_Use_ArchaeoCLIP_in_a_notebook.ipynb)
++ Build a knowledge graph embedding model: [colab notebook](https://colab.research.google.com/drive/1nhPWgDjaoBwZkV8V_4q8Q8P2Nt13cNx6?usp=sharing) (save a copy to your own gdrive and then work from that, remember.) Note that this isn't a 'tutorial' per se, but a copy of one of my working notebooks. Things get dicey as you go (if you get errors, it might be because a 'model' variable is pointing to the wrong model, so examine carefully.) One thing you can do from the start though, before running anything, is to scroll down almost to the end where there is an orange banner saying 'tensorboard'. Hit the drop-down in that banner and select 'projector'. It will load the visualization of the knowledge graph embedding model we built from antiquities crime stuff. Once it loads, you can search for individual nodes - try looking for 'Leonardo Patterson' - you'll spot the 'hot tip' that led to some remarkable research!
++ Build a custom image search model (go to google colab, open a notebook from github, and paste in this url) [https://github.com/shawngraham/pn_notebooks/blob/main/2_experiment_2_Use_ArchaeoCLIP_in_a_notebook.ipynb](https://gist.github.com/shawngraham/239d8d0ce44a7a2941fb5119f5885847). 
++ Hey, following up from last week's 'images at scale', let's do some [visual similarity exploration](https://gist.github.com/shawngraham/2882ab859a20062f0b34a7efca6f402b). 
 
 
 ---
